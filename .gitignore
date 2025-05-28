@@ -3,4 +3,6 @@ inputs/malaria_dataset/cell_images/train
 kaggle.json
 *.ipynb
 __pycache__/
+*.h5
+*.keras
 
